@@ -45,7 +45,7 @@
                     </v-span>
                   </v-btn>
 
-                <v-btn color="pink lighten-2 white--text" href="../assets/Emma-cv.pdf" target="_blank"> 
+                <v-btn color="pink lighten-2 white--text" href="https://firebasestorage.googleapis.com/v0/b/emma-portfolio-2021.appspot.com/o/Emma-cv.pdf?alt=media&token=2c6979fa-d763-45c8-89c9-7a46c2559875" target="_blank"> 
                   <v-icon> mdi-note </v-icon>
                       <v-span>
                         <b> View CV </b> 
@@ -94,12 +94,6 @@
      </v-content>
   
 </template>
-
-
-<script>
-  
-
-</script>
 
 
 <style> 
